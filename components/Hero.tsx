@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
 
         <div className="max-w-4xl mx-auto relative z-10 text-center">
             <h1 className="font-serif text-3xl md:text-5xl font-bold mb-6 text-[#F4B400] leading-tight">
-                Todos los 66 LIBROS DE LA BIBLIA <br className="hidden md:block"/> 
+                Todos los 73 LIBROS DE LA BIBLIA <br className="hidden md:block"/> 
                 <span className="text-white">explicados versículo por versículo</span>
             </h1>
 
