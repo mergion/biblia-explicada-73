@@ -53,7 +53,7 @@ const Pricing: React.FC<PricingProps> = ({ count = 1243 }) => {
                 <div className="space-y-4 mb-8 flex-1">
                     <div className="flex gap-3 items-start">
                         <CheckCircle2 className="text-[#25D366] w-5 h-5 mt-0.5 flex-shrink-0" />
-                        <span className="text-gray-700 text-sm font-bold leading-tight">TODOS LOS 66 LIBROS DE LA BIBLIA EXPLICADOS</span>
+                        <span className="text-gray-700 text-sm font-bold leading-tight">TODOS LOS 73 LIBROS DE LA BIBLIA EXPLICADOS</span>
                     </div>
                      <div className="flex gap-3 items-start">
                         <X className="text-red-400 w-5 h-5 mt-0.5 flex-shrink-0" />
