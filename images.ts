@@ -1,6 +1,6 @@
 export const IMAGES = {
   hero: {
-    mainBundle: "https://i.imgur.com/xKnhuDe.png", // Placeholder for bundle
+    mainBundle: "https://i.imgur.com/DiUUMAa.png", // Placeholder for bundle
     bgTexture: "https://images.unsplash.com/photo-1621508654686-809f23efdcf2?auto=format&fit=crop&q=80&w=1200", // Paper texture
   },
   product: {
